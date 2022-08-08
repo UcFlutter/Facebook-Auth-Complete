@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auth Tutorial</string>
+    <string name="facebook_app_id">1924520271082903</string>
+    <string name="fb_login_protocol_scheme">fb1924520271082903</string>
+    <string name="facebook_client_token">ab808c0a71a13009bcf8792433ff6b94</string>
+</resources>
